@@ -10,16 +10,20 @@ Welcome to the Frontend Developer Internship Assessment repository! This project
 ## Screenshots
 
 ### Page
-![Page Screenshot]()
+![page](https://github.com/Dervin29/bipolar_factory_assessment/assets/128388399/5779ed93-8a18-4beb-8ad6-30eb74045fa9)
+![page2](https://github.com/Dervin29/bipolar_factory_assessment/assets/128388399/c8fa2b9a-0a04-496c-9e18-8eade346eafe)
+
 
 ### Cards
-![Cards Screenshot](/screenshots/cards.png)
+![cards](https://github.com/Dervin29/bipolar_factory_assessment/assets/128388399/2ddbc3da-8ee8-41f2-b049-f563f9104a0d)
+
 
 ### Table
-![Table Screenshot](/screenshots/table.png)
+![table](https://github.com/Dervin29/bipolar_factory_assessment/assets/128388399/2457de9d-a124-4248-a4c4-272c541694b0)
 
 ### Form
-![Form Screenshot]("D:\form.jif")
+![form](https://github.com/Dervin29/bipolar_factory_assessment/assets/128388399/d95012b8-e7a5-4a34-952e-af18d3e5f8ab)
+
 
 ## Installation
 1. Clone the repository: `git clone <repository-url>`
@@ -28,7 +32,7 @@ Welcome to the Frontend Developer Internship Assessment repository! This project
 
 ## Usage
 - Explore various components developed using React.js and Material-UI.
-- Navigate through different pages, view cards, tables, and forms.
+- Navigate through different pages, cards, tables, and forms.
 - Gain insights into front-end development practices.
 
 
